@@ -1,0 +1,10 @@
+target
+log
+tmpdir
+nbproject
+/.buildconfig
+
+#IntelliJ
+.idea
+!.idea/runConfigurations
+*.iml
